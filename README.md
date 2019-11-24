@@ -18,3 +18,24 @@ Convolutional Neural Network,
 Matplotlib, 
 
 Generative Adeversarial Network.
+
+
+![Data Loader](https://github.com/deepaksharma1992/Generating-Faces-Gan/blob/master/1data_loader.PNG)
+
+![Training Image](https://github.com/deepaksharma1992/Generating-Faces-Gan/blob/master/2training_image.PNG)
+
+![Discriminator](https://github.com/deepaksharma1992/Generating-Faces-Gan/blob/master/3discriminator.PNG)
+
+![Generator](https://github.com/deepaksharma1992/Generating-Faces-Gan/blob/master/4generator.PNG)
+
+![Training Function](https://github.com/deepaksharma1992/Generating-Faces-Gan/blob/master/6training_function.PNG)
+
+![Training Gan](https://github.com/deepaksharma1992/Generating-Faces-Gan/blob/master/7training_gan.PNG)
+
+![Training Loss](https://github.com/deepaksharma1992/Generating-Faces-Gan/blob/master/8traiing_loss.PNG)
+
+![Generating Images](https://github.com/deepaksharma1992/Generating-Faces-Gan/blob/master/9generatingfakeimage.PNG)
+
+
+
+
